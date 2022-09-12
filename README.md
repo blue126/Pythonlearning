@@ -1,11 +1,19 @@
 # Pythonlearning
 
-# tokeep it
+# 你好吗芮小心
 
 # 
 
-## This is a 2nd tier title
+## 我正在搭建我记笔记的环境哦
 
-'insert' `code` `this is another code`
+有一点厉害
 
-:highlightedsssssffff:
+有**黑体**
+
+有*斜体*
+
+- 有列表
+  
+  ```Python
+    this is a code
+  ```
